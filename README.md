@@ -15,7 +15,7 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1:
-Load dataset
+Load dataset.
 
 ### STEP 2:
 Process the Dataset
